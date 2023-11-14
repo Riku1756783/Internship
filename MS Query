@@ -1,0 +1,32 @@
+Q1: who is the senior most employee based on job title?
+select * from employee
+order by levels desc
+limit 1 
+
+Q2: which country have the most invoices?
+select * from employee
+
+
+
+Q3: what are the top 3 values of total invoice?
+
+
+
+Q4: which city has the best customer? we would like to throw a promotion music festival 
+in the city we made most money.write a query that returns one city that has the highest
+sum of total returns both the city name & sum of all invoice totals?
+
+
+
+
+
+
+Q5: who is the best customer? the customer who has spent most money will be declared 
+the best customer. write a query that returns the person who has spent the most
+money?
+
+
+
+
+
+
